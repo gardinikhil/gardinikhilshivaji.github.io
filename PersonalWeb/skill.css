@@ -1,0 +1,34 @@
+body{
+    height: vh;
+    width: vh;
+    overflow: auto;
+}
+section{
+    display: inline-block;
+    padding-left:50px ;
+}
+body div{
+    box-sizing: border-box;
+    margin: 0px auto;
+    height: 400px;
+    width: 950px;
+    margin-top: 80px;
+}
+progress{
+    width: 400px;
+    padding-top:25px;
+}.progress{
+    padding-top: 30px;
+}
+img{
+    height: 250px;
+    width: 400px;
+    padding-bottom: 20px;
+}
+h1{
+    font-weight: 1000;
+    font-size: 250%;
+    font-style: italic;
+    opacity: .8;
+
+}

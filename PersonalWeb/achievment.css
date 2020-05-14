@@ -1,0 +1,42 @@
+body{
+    height: vh;
+    width: vh;
+    overflow: auto;
+}
+h1{
+    font-weight: 1000;
+    font-size: 250%;
+    font-style: italic;
+    opacity: .8;
+}
+body div{
+    box-sizing: border-box;
+    margin-top: 80px;
+    display: inline-block;
+    float: left;
+    margin-right: 20px;
+}
+section{
+    width: 950px;
+    height: 300px;
+    margin: 0px auto;
+}
+li{
+    list-style-type: square;
+    padding: 5px;
+}
+img{
+    height: 250px;
+    width: 400px;
+    padding-bottom: 20px;
+    margin: 25px;
+}
+.img{
+    width: 400px;
+    height: 300px;
+}
+.list{
+    width: 500px;
+    height: 300px;
+    padding-top: 50px;
+}

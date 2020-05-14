@@ -1,0 +1,40 @@
+body{
+    box-sizing: border-box;
+    height: vh;
+    width: vh;
+    overflow: auto;
+}
+h1{
+    font-weight: 1000;
+    font-size: 250%;
+    font-style: italic;
+    opacity: .8;
+
+}
+table{
+    text-align: center;
+    width: 800px;
+    height: auto;
+    margin: 5px;
+    border-spacing: 5px;
+    margin: 0px auto;
+    margin-top: 40px;
+}
+th{
+    background-color: rgb(149, 42, 42);
+    color: white;
+    border-radius: 5px;
+}
+td{
+    background-color: rgb(190, 255, 77);
+    color: rgb(58, 56, 56);
+}
+div.eduimg{
+    text-align: center;
+    margin: 5px;
+}
+img{
+    height: 200px;
+    width: 400px;
+    margin-top: 50px;
+}
